@@ -22,43 +22,34 @@ I’m a data-driven problem solver with a passion for turning complex informatio
 
 <p align="left"> <a href="https://www.github.com/Ritika13-01" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/ritika-6162b1212/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-<b style="color:#a3a3c2; font-size: 44px;">Top Repositories</b>
+<b style="color:#a3a3c2; font-size: 24px;">Top Repositories</b>
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-
-  <!-- Student Overview Dashboard -->
-  <div style="background-color: #000000; color: white; border-radius: 10px; padding: 16px; width: 300px; height: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <h3 style="margin: 0 0 8px; color: #0891b2;">📊 Student Overview Dashboard</h3>
-      <a href="https://github.com/Ritika13-01/Student-Overview-Dashboard" style="color: #3b82f6; text-decoration: none; font-size: 14px;">Link</a>
-      <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
-        This dashboard provides a comprehensive overview of 896 students, offering insights into demographics, educational background, work experience, and specializations.
-      </p>
-    </div>
-  </div>
-
-  <!-- Heart Disease Prediction -->
-  <div style="background-color: #000000; color: white; border-radius: 10px; padding: 16px; width: 300px; height: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <h3 style="margin: 0 0 8px; color: #0891b2;">❤️ Heart Disease Prediction</h3>
-      <a href="https://github.com/Ritika13-01/Heart-Disease-Prediction-Using-Python" style="color: #3b82f6; text-decoration: none; font-size: 14px;">Link</a>
-      <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
-        This project predicts heart disease using machine learning techniques like Logistic Regression and Decision Trees. It includes data preprocessing, model training, and performance evaluation.
-      </p>
-    </div>
-  </div>
-
-  <!-- HR Dashboard -->
-  <div style="background-color: #000000; color: white; border-radius: 10px; padding: 16px; width: 300px; height: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5); display: flex; flex-direction: column; justify-content: space-between;">
-    <div>
-      <h3 style="margin: 0 0 8px; color: #0891b2;">👥 HR Dashboard</h3>
-      <a href="https://github.com/Ritika13-01/HR-Dashboard" style="color: #3b82f6; text-decoration: none; font-size: 14px;">Link</a>
-      <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
-        This HR analytics dashboard visualizes employee performance, demographics, and compensation data across departments, enabling better HR decisions.
-      </p>
-    </div>
-  </div>
-
+ <!-- Student Overview Dashboard (Using Power BI) -->
+ <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
+   <h3 style="margin-top: 0; color: #0891b2;">📊 Student Overview Dashboard (Using Power BI)</h3>
+   <a href="https://github.com/Ritika13-01/Student-Overview-Dashboard" style="color: #3b82f6; font-size: 14px;">Link</a>
+   <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
+     This dashboard provides a comprehensive overview of 896 students, offering insights into demographics, educational background, work experience, and specializations.
+   </p>
+ </div>
+ <!-- Heart Disease Prediction Using Python (jupyter) -->
+ <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
+   <h3 style="margin-top: 0; color: #0891b2;">❤️ Heart Disease Prediction Using Python (jupyter)</h3>
+   <a href="https://github.com/Ritika13-01/Heart-Disease-Prediction-Using-Python" style="color: #3b82f6; font-size: 14px;">Link</a>
+   <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
+     This project predicts heart disease using machine learning techniques like Logistic Regression and Decision Trees. It includes data preprocessing, model training, and performance evaluation.
+   </p>
+ </div>
+ <!-- HR Dashboard Using Power BI -->
+ <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
+   <h3 style="margin-top: 0; color: #0891b2;">👥  HR Dashboard Using Power BI </h3>
+   <a href="https://github.com/Ritika13-01/HR-Dashboard" style="color: #3b82f6; font-size: 14px;">Link</a>
+   <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
+     This HR analytics dashboard visualizes employee performance, demographics, and compensation data across departments, enabling better HR decisions.
+   </p>
+ </div>
 </div>
+
 
 ### Badges
 
