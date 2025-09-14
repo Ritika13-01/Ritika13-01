@@ -53,7 +53,7 @@ I’m a data-driven problem solver with a passion for turning complex informatio
  </div>
  <!-- n8n-Lead-Automation-Workflow -->
  <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
-   <h3 style="margin-top: 0; color: #0891b2;">👥  n8n-Lead-Automation-Workflow </h3>
+   <h3 style="margin-top: 0; color: #0891b2;">⚙️  n8n-Lead-Automation-Workflow </h3>
    <a href="https://github.com/Ritika13-01/n8n-Lead-Automation-Workflow" style="color: #3b82f6; font-size: 14px;">Link</a>
    <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
      This project is an n8n workflow that automates the process of collecting, enriching, and storing leads into Google Sheets. It also includes notifications and error handling for smooth operations.
