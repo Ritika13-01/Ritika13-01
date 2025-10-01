@@ -1,10 +1,7 @@
 Hi 👋 My name is Ritika
 =======================
 
-Data Analyst
-------------
-
-I’m a data-driven problem solver with a passion for turning complex information into actionable insights. With hands-on experience across marketing, finance, and strategy, I enjoy building impactful dashboards, leading initiatives, and crafting clear narratives from data. Always curious and collaborative, I thrive in fast-paced, evolving environments. Let’s connect and drive meaningful outcomes together.
+I’m a data-driven problem solver passionate about transforming complex data into actionable insights and intuitive digital solutions. With hands-on experience in data analytics, web, and app development, I enjoy building interactive dashboards, developing efficient applications, and crafting clear narratives from data. Curious and collaborative, I thrive in fast-paced, evolving environments, delivering impactful results through technology and analytics.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [ritikaworkspace13@gmail.com](mailto:ritikaworkspace13@gmail.com)
@@ -41,6 +38,15 @@ I’m a data-driven problem solver with a passion for turning complex informatio
    <a href="https://github.com/Ritika13-01/Heart-Disease-Prediction-Using-Python" style="color: #3b82f6; font-size: 14px;">Link</a>
    <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
      This project predicts heart disease using machine learning techniques like Logistic Regression and Decision Trees. It includes data preprocessing, model training, and performance evaluation.
+   </p>
+ </div>
+  </div>
+ <!-- Flowers E-commerce Website ((HTML,CSS) -->
+ <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
+   <h3 style="margin-top: 0; color: #0891b2;">Flowers E-commerce Website ((HTML,CSS)</h3>
+   <a href="https://github.com/Ritika13-01/Flowers-E-commerce-Website" style="color: #3b82f6; font-size: 14px;">Link</a>
+   <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
+   This is a fully responsive flower shop website built with HTML5, CSS3, and Font Awesome icons. The design highlights fresh flowers, products, customer reviews, and includes a contact form.
    </p>
  </div>
  <!-- HR Dashboard Using Power BI -->
