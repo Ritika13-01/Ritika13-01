@@ -57,7 +57,6 @@ I’m a data-driven problem solver passionate about transforming complex data in
 </div>
 
 ### Skills
-### Skills
 <div style="display: flex; flex-wrap: nowrap; gap: 10px;">
 <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36"/></a>
 <a href="https://www.r-project.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36"/></a>
