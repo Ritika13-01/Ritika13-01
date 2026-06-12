@@ -29,6 +29,14 @@ I’m a data-driven problem solver passionate about transforming complex data in
      This project predicts heart disease using machine learning techniques like Logistic Regression and Decision Trees. It includes data preprocessing, model training, and performance evaluation.
    </p>
  </div>
+ <!-- Customer Behaviour Analysis (Python, SQL, Excel, Power BI) -->
+ <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
+   <h3 style="margin-top: 0; color: #0891b2;">Customer Behaviour Analysis using Python, SQL, Excel, Power BI</h3>
+   <a href="https://github.com/Ritika13-01/Customer-Behaviour-Analysis" style="color: #3b82f6; font-size: 14px;">Link</a>
+   <p style="margin-top: 10px; font-size: 13px; color: #e5e5e5;">
+     This project focuses on analyzing customer shopping behavior using Excel data, performing Exploratory Data Analysis (EDA), answering key business questions using SQL, and building an interactive dashboard to visualize insights.
+   </p>
+ </div>
   </div>
  <!-- Flowers E-commerce Website ((HTML,CSS) -->
  <div style="background-color: #2a2a2a; color: white; border-radius: 10px; padding: 16px; width: 300px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);">
